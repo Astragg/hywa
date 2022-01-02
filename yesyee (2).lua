@@ -42,13 +42,13 @@ local Aiming = {
     Enabled = true,
 
     ShowFOV = false,
-    FOV = 35,
+    FOV = 40,
     FOVSides = 12,
     FOVColour = Color3fromRGB(0, 255, 68),
 
     VisibleCheck = true,
 
-    HitChance = 100,
+    HitChance = 200,
 
     Selected = nil,
     SelectedPart = nil,
